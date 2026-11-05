@@ -1,0 +1,24 @@
+
+--- Curiosidad ---
+Shapiro-Wilk (Diferencias): W = 0.7544, p = 0.0000
+  -> Asunción de normalidad VIOLADA. (Se requiere Wilcoxon).
+Prueba T (Paramétrica):   t = 2.80, p = 0.0073
+Prueba Wilcoxon (No Par): W = 214.00, p = 0.0077
+
+--- MIL Self-Efficacy ---
+Shapiro-Wilk (Diferencias): W = 0.7637, p = 0.0000
+  -> Asunción de normalidad VIOLADA. (Se requiere Wilcoxon).
+Prueba T (Paramétrica):   t = 1.86, p = 0.0682
+Prueba Wilcoxon (No Par): W = 396.00, p = 0.0477
+
+--- Actitud Ambiental ---
+Shapiro-Wilk (Diferencias): W = 0.6364, p = 0.0000
+  -> Asunción de normalidad VIOLADA. (Se requiere Wilcoxon).
+Prueba T (Paramétrica):   t = 2.78, p = 0.0076
+Prueba Wilcoxon (No Par): W = 168.00, p = 0.0053
+
+--- Conocimiento ---
+Shapiro-Wilk (Diferencias): W = 0.8757, p = 0.0001
+  -> Asunción de normalidad VIOLADA. (Se requiere Wilcoxon).
+Prueba T (Paramétrica):   t = 5.23, p = 0.0000
+Prueba Wilcoxon (No Par): W = 113.00, p = 0.0000
