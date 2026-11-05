@@ -1,0 +1,5 @@
+- Offline RAG AI supported a culturally adapted Green MIL workshop.
+- Fifty-two children completed paired pre/post assessments.
+- Knowledge, attitudes, and curiosity improved after the workshop.
+- AI-specific effects could not be isolated from the full intervention.
+- Public code and anonymised data support reproducibility.
