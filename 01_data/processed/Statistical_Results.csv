@@ -1,0 +1,5 @@
+Construct,Pre_Mean,Post_Mean,Mean_Diff,Wilcoxon_W,p_value,Effect_Size_r
+Knowledge,5.65,7.42,1.77,113.00,<0.0001,0.69
+Environmental_Attitude,19.42,21.81,2.39,168.00,0.0053,0.40
+Curiosity,18.90,20.40,1.50,214.00,0.0077,0.38
+MIL_Self-Efficacy,28.37,29.63,1.26,396.00,0.0477,0.28
