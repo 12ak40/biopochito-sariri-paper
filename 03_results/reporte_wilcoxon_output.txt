@@ -1,0 +1,38 @@
+=== REPORTE RIGUROSO WILCOXON (Para el revisor) ===
+
+--- Knowledge ---
+  Pre:  Median = 6.0, IQR = 3.2
+  Post: Median = 8.0, IQR = 3.0
+  Differences: Positive = 38, Negative = 7, Zero = 7
+  W+ = 922.0, W- = 113.0 (Wilcoxon Statistic W = 113.0)
+  p-value = 0.0000
+  Effect size (r) = +0.78
+  Median Diff 95% CI = [1.0, 3.0]
+
+--- Environmental Attitude ---
+  Pre:  Median = 21.0, IQR = 5.2
+  Post: Median = 22.0, IQR = 4.2
+  Differences: Positive = 27, Negative = 10, Zero = 15
+  W+ = 535.0, W- = 168.0 (Wilcoxon Statistic W = 168.0)
+  p-value = 0.0053
+  Effect size (r) = +0.52
+  Median Diff 95% CI = [0.0, 1.5]
+
+--- Curiosity ---
+  Pre:  Median = 20.0, IQR = 5.5
+  Post: Median = 21.0, IQR = 5.0
+  Differences: Positive = 29, Negative = 11, Zero = 12
+  W+ = 606.0, W- = 214.0 (Wilcoxon Statistic W = 214.0)
+  p-value = 0.0077
+  Effect size (r) = +0.48
+  Median Diff 95% CI = [0.0, 1.0]
+
+--- MIL Self-Efficacy ---
+  Pre:  Median = 30.0, IQR = 7.0
+  Post: Median = 30.0, IQR = 7.2
+  Differences: Positive = 30, Negative = 18, Zero = 4
+  W+ = 780.0, W- = 396.0 (Wilcoxon Statistic W = 396.0)
+  p-value = 0.0477
+  Effect size (r) = +0.33
+  Median Diff 95% CI = [0.0, 2.0]
+
