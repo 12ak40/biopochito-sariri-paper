@@ -1,0 +1,6 @@
+=== VERIFICACIÓN TABLA 2 (POST-TEST) ===
+Total participantes: 52
+Initial Curiosity (E1=1)      : 18 (34.6%)
+Causal Questioning (D5>=1)    : 43 (82.7%)
+MIL Verification (E1=2)       : 17 (32.7%)
+Systems Thinking (D6=2 | D8=2): 22 (42.3%)
