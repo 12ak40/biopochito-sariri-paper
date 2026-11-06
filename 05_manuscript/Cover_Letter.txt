@@ -1,0 +1,31 @@
+[Date]
+
+Editor-in-Chief
+Computers and Education: Artificial Intelligence (CAEAI)
+
+Dear Editor,
+
+We are pleased to submit our manuscript entitled "Biopochito: An Exploratory Implementation of a Culturally Adapted AI-Supported Science Workshop for Green Media Literacy" for consideration for publication in Computers and Education: Artificial Intelligence.
+
+This study presents a culturally adapted implementation of an offline AI companion (Biopochito) and a Green Media and Information Literacy (MIL) workshop for children in a high-altitude context in La Paz, Bolivia. To our knowledge, this is one of the first documented implementations of a locally hosted, offline RAG architecture for child-oriented environmental education in Latin America. 
+
+Our manuscript makes the following contributions:
+1. Technical: Documents a reproducible offline RAG architecture for resource-constrained environments.
+2. Pedagogical: Integrates the UNESCO Green MIL framework with local ecological knowledge (Lake Titicaca).
+3. Empirical: Provides quantitative and qualitative evidence of short-term changes in knowledge, attitudes, and curiosity among 52 children.
+4. Ethical: Outlines a transparent safety and data-minimisation protocol for AI use with minors.
+
+We have deposited all anonymised data, Python analysis scripts, survey instruments, and rubrics in a public repository (URL blinded in manuscript, available at: https://github.com/12ak40/biopochito-sariri-paper) to ensure full reproducibility and transparency, aligning with CAEAI's open science principles.
+
+As the corresponding author is affiliated with an institution in a lower-middle-income country (Bolivia/Colombia), we kindly request a waiver or discount for the Article Processing Charge (APC) in accordance with Elsevier's waiver policy for authors from developing countries.
+
+We confirm that this manuscript is original, has not been published elsewhere, and is not under consideration by another journal. All authors have approved the manuscript and agree with its submission to CAEAI. We declare no conflicts of interest.
+
+Thank you for considering our work.
+
+Sincerely,
+
+Marco A. Cabero Z.
+On behalf of all authors
+Andean Road Countries for Science and Technology (ARCST)
+Email: editorial@journalasc.org
