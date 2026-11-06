@@ -5,12 +5,12 @@ Computers and Education: Artificial Intelligence (CAEAI)
 
 Dear Editor,
 
-We are pleased to submit our manuscript entitled "Biopochito: An Exploratory Implementation of a Culturally Adapted AI-Supported Science Workshop for Green Media Literacy" for consideration for publication in Computers and Education: Artificial Intelligence.
+We are pleased to submit our manuscript entitled "Biopochito: A Culturally Adapted Science Popularization Platform for Environmental Education and Green Media Literacy" for consideration for publication in Computers and Education: Artificial Intelligence.
 
-This study presents a culturally adapted implementation of an offline AI companion (Biopochito) and a Green Media and Information Literacy (MIL) workshop for children in a high-altitude context in La Paz, Bolivia. To our knowledge, this is one of the first documented implementations of a locally hosted, offline RAG architecture for child-oriented environmental education in Latin America. 
+This study presents a culturally adapted implementation of an internet-connected, compact AI companion (Biopochito) and a Green Media and Information Literacy (MIL) workshop for children in a high-altitude context in La Paz, Bolivia. To our knowledge, this is one of the first documented implementations of a locally grounded RAG architecture for child-oriented environmental education in Latin America.
 
 Our manuscript makes the following contributions:
-1. Technical: Documents a reproducible offline RAG architecture for resource-constrained environments.
+1. Technical: Documents a reproducible RAG architecture for resource-constrained environments.
 2. Pedagogical: Integrates the UNESCO Green MIL framework with local ecological knowledge (Lake Titicaca).
 3. Empirical: Provides quantitative and qualitative evidence of short-term changes in knowledge, attitudes, and curiosity among 52 children.
 4. Ethical: Outlines a transparent safety and data-minimisation protocol for AI use with minors.
@@ -28,4 +28,4 @@ Sincerely,
 Marco A. Cabero Z.
 On behalf of all authors
 Andean Road Countries for Science and Technology (ARCST)
-Email: editorial@journalasc.org
+Email: marco.cabero@arcst.org
